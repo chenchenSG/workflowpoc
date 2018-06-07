@@ -1,0 +1,9 @@
+{
+    "id": "app",
+    "image": "wedeploy/liferay:dxp-sp6-20180423",
+    "volumes": {
+        "data": "/opt/liferay/data"
+    },
+    "memory": 8096,
+    "cpu": 8
+}
