@@ -1,6 +1,6 @@
 {
     "id": "app",
-    "image": "wedeploy/liferay:dxp-sp6-20180423",
+    "image": "wedeploy/liferay:dxp-sp6-20180530",
     "volumes": {
         "data": "/opt/liferay/data"
     },
